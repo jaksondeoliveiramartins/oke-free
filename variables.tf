@@ -29,7 +29,7 @@ variable "memory_in_gbs_per_node" {
 
 variable "image_id" {
   type    = string
-  default = "ocid1.image.oc1.iad.aaaaaaaanwsto6tqklfuawgqrve5ugjpbff3l5qtb7bs35dp72ewcnsuwoka"
+  default = "ocid1.image.oc1.iad.aaaaaaaazi34xyxv6og7qgn3nqvaykfvg5ntkkx7yhlkjzpn4z45l72l53wa"
 }
 # Link to a list of available images (Be sure to select the correct region and CPU architecture. We are using Oracle-Linux-8.8-2023.09.26-0-OKE-1.26.7-653)
 # https://docs.cloud.oracle.com/iaas/images/
