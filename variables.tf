@@ -14,7 +14,7 @@ variable "region" {
 
 variable "shape" {
   type    = string
-  default = "VM.Standard.A1.Flex"
+  default = " VM.Standard.E3.Flex"
 }
 
 variable "ocpus_per_node" {
